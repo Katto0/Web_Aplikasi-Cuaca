@@ -8,7 +8,7 @@ const descriptionDisplay = document.getElementById("description");
 const iconDisplay = document.getElementById("icon");
 
 // API Key OpenWeather (ganti dengan API Key Anda)
-const API_KEY = "1ae36532a48ea45fefcb233b665e9c9d";
+const API_KEY = "ba4bc901d8fa239a59c57e18e8c0b278";
 
 // Fungsi untuk mengambil data cuaca
 async function getWeather(city) {
